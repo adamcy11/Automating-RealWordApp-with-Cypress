@@ -39,7 +39,7 @@ cd cypress-realworld-app
 ### 2. Install dependencies
 
 ```
-yarn install or 
+yarn install 
 ```
 Ou com npm
 ```
